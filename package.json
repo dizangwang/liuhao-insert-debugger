@@ -1,0 +1,22 @@
+{
+  "name": "liuhao-insert-debugger",
+  "version": "1.0.0",
+  "description": "给代码中插入大量的debugger使代码无法调试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dizangwang/liuhao-insert-debugger.git"
+  },
+  "keywords": [
+    "debugger"
+  ],
+  "author": "liuhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dizangwang/liuhao-insert-debugger/issues"
+  },
+  "homepage": "https://github.com/dizangwang/liuhao-insert-debugger#readme"
+}
